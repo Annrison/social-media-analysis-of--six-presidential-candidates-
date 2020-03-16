@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/505766/70a621f8138d4e898a35f5d448bf8a2d
+bundleId: https://api.rpubs.com/api/v1/document/505766/70a621f8138d4e898a35f5d448bf8a2d
+url: http://rpubs.com/Anrison/505766
+when: 1560850497.67795
